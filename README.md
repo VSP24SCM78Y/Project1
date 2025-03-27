@@ -2,11 +2,12 @@
 **Course:** CS584 - Machine Learning  
 **Instructor:** Steve Avsec  
 
-## Team Member  
-Rohith Kukkadapu – A20554359
-Vinay Yerram - A20554778
-Rama Muni Reddy Bandi - A20554387
-Kumar sri pavan Veeramallu - A20539662
+## Team Members  
+- Rohith Kukkadapu – A20554359  
+- Vinay Yerram – A20554778  
+- Rama Muni Reddy Bandi – A20554387  
+- Kumar Sri Pavan Veeramallu – A20539662  
+
 
 ---
 
